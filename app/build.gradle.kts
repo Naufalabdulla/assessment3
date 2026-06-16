@@ -63,11 +63,18 @@ dependencies {
     implementation(libs.androidx.material3)
     implementation(libs.androidx.credentials)
     implementation(libs.androidx.credentials.play.services.auth)
+    implementation(libs.androidx.compose.material3)
+    implementation(libs.androidx.lifecycle.viewmodel.compose)
+    implementation(libs.retrofit)
+    implementation(libs.converter.moshi)
+    implementation(libs.moshi.kotlin)
+    implementation(libs.coil.compose)
     implementation(libs.googleid)
     implementation(libs.androidx.datastore.preferences)
     implementation(libs.androidx.datastore.preferences)
     implementation(libs.android.image.cropper)
     implementation(libs.compose.material.icons.extended)
+
 
     testImplementation(libs.junit)
     androidTestImplementation(libs.androidx.junit)
