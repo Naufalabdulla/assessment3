@@ -1,3 +1,11 @@
 <resources>
-    <string name="app_name">assessment3</string>
+    <string name="app_name">Komik</string>
+    <string name="tambah_komik">Tambah komik</string>
+    <string name="judul">Judul</string>
+    <string name="chapter">Total chapter</string>
+    <string name="chapter_dibaca">Chapter terakhir dibaca</string>
+    <string name="batal">Batal</string>
+    <string name="simpan">Simpan</string>
+    <string name="error">Gagal memuat data</string>
+    <string name="coba_lagi">Coba lagi</string>
 </resources>
