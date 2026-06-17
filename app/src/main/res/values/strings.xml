@@ -8,4 +8,11 @@
     <string name="simpan">Simpan</string>
     <string name="error">Gagal memuat data</string>
     <string name="coba_lagi">Coba lagi</string>
+    <string name="tutup">Tutup</string>
+    <string name="profil">Profil</string>
+    <string name="hapus">Hapus</string>
+    <string name="gambar">gambar</string>
+    <string name="logout">Logout\n</string>
+    <string name="konfirmasi_hapus">hapus item</string>
+    <string name="konfirmasi_hapus_pesan">hapus pesan</string>
 </resources>
